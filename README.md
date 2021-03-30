@@ -6,7 +6,7 @@ in the root folder run:
 `py manage.py runserver`  
 you must have [Django](https://www.djangoproject.com/) installed.
 
-superuser login:
+superuser login:  
 <img src="https://docs.djangoproject.com/en/3.1/_images/admin01.png" alt="Django administration">
 
 ## documentation
